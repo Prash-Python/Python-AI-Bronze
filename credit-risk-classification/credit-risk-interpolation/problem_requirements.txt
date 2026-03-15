@@ -15,3 +15,12 @@ Age,AnnualIncome(lakhs),CreditScore(300-900), LoanAmount(lakhs), LoanTerm(years)
 48,14,650,11,12,Self-Employed,1
 38,9,700,7,8,Salaried,0
 55,16,620,13,15,Self-Employed,1
+
+Interpretation
+1. Identify high-risk customers.
+2. What patterns lead to loan default?
+3. How do credit score and income influence predictions?
+4. Suggest banking policies based on model output.
+5. Compare KNN with Decision Trees for this problem.
+6. What happens if LoanAmount dominates distance calculation?
+7. Should KNN be used in real-time loan approval systems?

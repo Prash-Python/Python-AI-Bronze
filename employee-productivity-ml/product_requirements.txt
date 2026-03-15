@@ -1,0 +1,6 @@
+# Employee Productivity Machine Learning Model Requirements
+This file lists the required Python libraries for developing and running the employee productivity machine learning model.
+
+pandas
+numpy
+scikit-learn
